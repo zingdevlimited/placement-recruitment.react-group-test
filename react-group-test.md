@@ -12,7 +12,7 @@ Your assignment is to build an app with the following requirements:
     * The search button should only be clickable if the longitude and latitude boxes have numbers in them
     * The search button's background colour should be blue
 * The app must use the open-meteo API to fetch data, based on the longitude and latitude that are inputted.
-    * The open-meteo API can be found at https://open-meteo.com/en
+    * The open-meteo API can be found at https://open-meteo.com/en under the `API Docs` section
     * HINT: Have a look at the fetch API at https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for how to fetch data from the open-meteo
     * After fetching the data, you can then display this in your app
 * Extension tasks:
