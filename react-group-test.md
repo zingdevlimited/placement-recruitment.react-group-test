@@ -14,7 +14,6 @@ Your assignment is to build an app with the following requirements:
 * The app must use the open-meteo API to fetch data, based on the longitude and latitude that are inputted.
     * The open-meteo API can be found at https://open-meteo.com/en
     * HINT: Have a look at the fetch API at https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API for how to fetch data from the open-meteo
-    * OR: Have a look at the open-meteo package on NPM
     * After fetching the data, you can then display this in your app
 * Extension tasks:
     * Update the display to also include the time that the temperature was recorded
